@@ -23,13 +23,13 @@ All indices in the cost of living datasets are benchmarked against New York City
 ## Sample Visuals
 
 ### Cost of Living vs Purchasing Power
-![Cost vs Purchasing Power](visuals/cost_vs_purchasing_power.png)
+![Cost vs Purchasing Power](cost-of-living-analysis/visuals/cost_vs_purchasing_power.png)
 
 ### USD/EGP Exchange Rate with Key Events
-![Exchange Rate Annotated](visuals/exchange_rate_annotated.png)
+![Exchange Rate Annotated](cost-of-living-analysis/visuals/exchange_rate_annotated.png)
 
 ### Exchange Rate vs Inflation
-![Exchange vs Inflation](visuals/exchange_vs_inflation.png)
+![Exchange vs Inflation](cost-of-living-analysis/visuals/exchange_vs_inflation.png)
 
 ## Datasets
 
